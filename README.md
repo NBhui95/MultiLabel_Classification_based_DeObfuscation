@@ -16,5 +16,5 @@ The proposed feature dataset integrates both un-obfuscated and structurally obfu
 
 [7]	DSP benchmarks for HLS, Indian Institute of Technology Indore, https://www.anirban-sengupta.com/docs/HLS_Benchmarks.pdf, accessed on July 2026. 
 
-[8]	Express Benchmark Suite, University of California Santa Barbara (UCSB), http://www.ece.ucsb.edu/EXPRESS/benchmark/, July 2025. 
+[8]	Express Benchmark Suite, University of California Santa Barbara (UCSB), http://www.ece.ucsb.edu/EXPRESS/benchmark/, July 2026. 
 
